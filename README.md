@@ -40,7 +40,7 @@ ggplot(data, aes(x = Newton_RNA_run1.newton_direct_RNA_newton_scaffolds_minimap_
 dev.off()
 ```
 
-!PolyA Distribution
+![PolyA Distribution](C:\Users\cx264\OneDrive%20-%20University%20of%20Cambridge\2024Fall\CSC\Repository\GpalEnrichment\01.polyA_distribution.png)
 
 ![](C:\Users\cx264\AppData\Roaming\marktext\images\2025-01-22-09-52-57-image.png)
 
