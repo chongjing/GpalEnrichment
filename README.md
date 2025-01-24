@@ -40,6 +40,8 @@ ggplot(data, aes(x = Newton_RNA_run1.newton_direct_RNA_newton_scaffolds_minimap_
 dev.off()
 ```
 
+!PolyA Distribution
+
 ![](C:\Users\cx264\AppData\Roaming\marktext\images\2025-01-22-09-52-57-image.png)
 
 ## 2. GeneSet and GO terms
