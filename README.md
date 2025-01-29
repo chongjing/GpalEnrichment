@@ -109,7 +109,7 @@ for i in range(1, len(quintile_ranges)):
 
 ## 3. GO enrichment
 
-'GO & KEGG' module in TBtools was used for GO enrichment analysis. Results and a barplot for each quintile are in each folder.
+'GO & KEGG' module in TBtools was used for GO enrichment analysis. Results and a barplot for each quintile are in each folder ([quintile1](https://github.com/chongjing/GpalEnrichment/tree/main/quintile1), [quintile2](https://github.com/chongjing/GpalEnrichment/tree/main/quintile2), [quintile3](https://github.com/chongjing/GpalEnrichment/tree/main/quintile3), [quintile4](https://github.com/chongjing/GpalEnrichment/tree/main/quintile4), [quintile5](https://github.com/chongjing/GpalEnrichment/tree/main/quintile5).
 
 Function Enrichment of Quintile 1:
 
