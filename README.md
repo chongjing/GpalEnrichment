@@ -1,6 +1,8 @@
 # GpalEnrichment
 
- Gene Ontology enrichment of Globodera pallida for genes in each quintiles of polyA length.
+ Gene Ontology enrichment of *Globodera pallida* for genes in each quintiles of polyA length.
+
+In this project, we have polyA length of genes, we wanted to explore potential functions of genes with specific polyA length. To do this, we first got the distribution of polyA length, obtained length ranges of each quintile. Then we extracted genes from each quintile, and assigned Gene Ontology terms (from annotated gff3 file). GO enrichment and visulization were performed using [TBtools]([CJ-Chen/TBtools-II: GUI/CommandLine Tool Box for biologistists to utilize NGS data.](https://github.com/CJ-Chen/TBtools-II)).
 
 ## 1. Distribution of polyA length
 
